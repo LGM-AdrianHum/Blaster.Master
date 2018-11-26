@@ -1,0 +1,33 @@
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\obj\Debug\Blaster Master.csproj.GenerateResource.Cache
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\obj\Debug\BlasterMaster.Form1.resources
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\obj\Debug\BlasterMaster.Properties.Resources.resources
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\bin\Debug\BlasterMaster.exe
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\bin\Debug\BlasterMaster.pdb
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\obj\Debug\BlasterMaster.exe
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master\obj\Debug\BlasterMaster.pdb
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master C#\Blaster Master\bin\Debug\BlasterMaster.exe
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master C#\Blaster Master\bin\Debug\BlasterMaster.pdb
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master C#\Blaster Master\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master C#\Blaster Master\obj\Debug\BlasterMaster.Form1.resources
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master C#\Blaster Master\obj\Debug\BlasterMaster.Properties.Resources.resources
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master C#\Blaster Master\obj\Debug\Blaster Master.csproj.GenerateResource.Cache
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master C#\Blaster Master\obj\Debug\BlasterMaster.exe
+C:\Documents and Settings\Trent Jackson\Desktop\Blaster Master C#\Blaster Master C#\Blaster Master\obj\Debug\BlasterMaster.pdb
+C:\Documents and Settings\Trent Jackson\Desktop\883-22244-Blaster-Master-C\Blaster Master C#\Blaster Master\bin\Debug\BlasterMaster.exe
+C:\Documents and Settings\Trent Jackson\Desktop\883-22244-Blaster-Master-C\Blaster Master C#\Blaster Master\bin\Debug\BlasterMaster.pdb
+C:\Documents and Settings\Trent Jackson\Desktop\883-22244-Blaster-Master-C\Blaster Master C#\Blaster Master\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Trent Jackson\Desktop\883-22244-Blaster-Master-C\Blaster Master C#\Blaster Master\obj\Debug\BlasterMaster.Form1.resources
+C:\Documents and Settings\Trent Jackson\Desktop\883-22244-Blaster-Master-C\Blaster Master C#\Blaster Master\obj\Debug\BlasterMaster.Properties.Resources.resources
+C:\Documents and Settings\Trent Jackson\Desktop\883-22244-Blaster-Master-C\Blaster Master C#\Blaster Master\obj\Debug\Blaster Master.csproj.GenerateResource.Cache
+C:\Documents and Settings\Trent Jackson\Desktop\883-22244-Blaster-Master-C\Blaster Master C#\Blaster Master\obj\Debug\BlasterMaster.exe
+C:\Documents and Settings\Trent Jackson\Desktop\883-22244-Blaster-Master-C\Blaster Master C#\Blaster Master\obj\Debug\BlasterMaster.pdb
+h:\Blaster Master\bin\Debug\BlasterMaster.exe
+h:\Blaster Master\bin\Debug\BlasterMaster.pdb
+h:\Blaster Master\obj\Debug\Blaster Master.csprojAssemblyReference.cache
+h:\Blaster Master\obj\Debug\BlasterMaster.Form1.resources
+h:\Blaster Master\obj\Debug\BlasterMaster.Properties.Resources.resources
+h:\Blaster Master\obj\Debug\Blaster Master.csproj.GenerateResource.cache
+h:\Blaster Master\obj\Debug\Blaster Master.csproj.CoreCompileInputs.cache
+h:\Blaster Master\obj\Debug\BlasterMaster.exe
+h:\Blaster Master\obj\Debug\BlasterMaster.pdb
